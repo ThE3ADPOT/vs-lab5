@@ -1,1 +1,1 @@
-CREATE DATABASE svfu_vvs_zhas;
+CREATE DATABASE svfu_vvs_bmn;
